@@ -1,8 +1,8 @@
 {
-  "Version_update": "1.4",
+  "Version_update": "1.5",
   "Link_zip": "https://github.com/NINEVPN/nanon/raw/main/nanon.zip",
   "Password": "140690",
-  "Message": "NANON VPN"
+  "Message": "NANON VPN
 15/07/2022
 เล่นทั่วไป ดูหนัง ฟังเพลง
 A-TRUE-NOPRO-CAT-TH-01
