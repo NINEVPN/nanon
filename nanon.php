@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.3",
+  "Version_update": "1.4",
   "Link_zip": "https://github.com/NINEVPN/nanon/raw/main/nanon.zip",
   "Password": "140690",
   "Message": "NANON VPN"
