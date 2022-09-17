@@ -1,17 +1,13 @@
 {
-  "Version_update": "1.6",
+  "Version_update": "1.7",
   "Link_zip": "https://github.com/NINEVPN/nanon/raw/main/nanon.zip",
   "Password": "140690",
   "Message": "NANON VPN
-20/07/2022
-📢มีเซิฟเวอร์ใหม่ๆมาให้ใช้งานกันนะครับทุกคน
-📱เล่นทั่วไป ดูหนัง ฟังเพลง
-A-TRUE-NOPRO-CAT-TH-02~04
-B-DTAC-NOPRO-CAT-TH-02~04
-C-AIS-PLAY-CAT-TH-02~04
-🎮สำหรับเล่นเกมส์
-A-TRUE-NOPRO-GAMING-02
-B-DTAC-NOPRO-GAMING-02
-C-AIS-PLAY-GAMING-02
+อัพเดท 17/09/2022
+เพิ่มเซิร์ฟเวอร์ใหม่🇸🇬SG สิงคโปร์🇸🇬
+🔴 AAA-TRUE-NOPRO-SG-01~08
+🔵 BBB-DTAC-NOPRO-SG-01~08
+🟢 CCC-AIS-PLAY-SG-01~08
+👍อย่าลืมกดอัพเดทกันด้วยนะครับ👍
 "
 }
